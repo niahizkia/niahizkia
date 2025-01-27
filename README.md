@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niahizkia
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
-- 🌱 I’m currently learning about Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on anykind of Data Science project
+- 💻 I'm a Software Engineer/Backend Developer 
+- 👀 I’m interested in the Latest Update in Tech Industries such as Data Science, Machine Learning, and Artificial Intelligence
+- 💞️ I’m looking to collaborate on any App project
 - 📫 Reach me (niahizkiaa@gmail.com)
 
 <!---
